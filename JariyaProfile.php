@@ -2,8 +2,8 @@
 Lab          : พี่กินก๊งน้องกินก๊ง X Tokyo Driff
 File         : JariyaProfile.php
 Created      : 3-07-69
-Last Updated : 3-07-69
-Author       : ถึงสุขสรรค์ ช่วยเพิ่มคำนำหน้าชื่อให้หน่อยลืมใส่น่ะ อิอิ
+Last Updated : 5-07-69
+Author       : �I doit yet�ิอิ
 
 <!DOCTYPE html>
 <html lang="th">
@@ -200,7 +200,7 @@ body{
 
         <div class="hero">
 
-            <h1>จริยา ไชยนา</h1>
+            <h1>นางสาวจริยา ไชยนา</h1>
 
             <div class="line"></div>
 
